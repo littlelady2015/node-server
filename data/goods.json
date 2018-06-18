@@ -1,0 +1,19 @@
+{
+"goodsInfo":[{
+  "productId": "10001",
+  "productName": "名媛气质V领显瘦短袖女神碎花裙子",
+  "SalePrice": 269,
+  "checked": "true",
+  "productNum": 1499,
+  "productImage": "//gju2.alicdn.com/tps/i2/2146742267/TB14U.var1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg_460x460Q90.jpg"
+},
+{
+      "productId"   :"10002",
+      "productName" : "新款宽松韩版雪纺衫小清新上衣女",
+      "SalePrice"   : 179,
+      "checked"     : "true",
+      "productNum"  :  1153,
+      "productImage": "//gju1.alicdn.com/tps/i3/0/TB27UMvgASWBuNjSszdXXbeSpXa_!!0-juitemmedia.jpg_460x460Q90.jpg"
+    }
+  ]
+}

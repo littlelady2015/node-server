@@ -1,0 +1,7 @@
+users:{
+ addressId   :"100007",
+ userName    :"cherry",
+ streetName  :"北京市海淀区回龙观"，
+ tel         :"13619897333",
+ isDefault   :"false"
+}
